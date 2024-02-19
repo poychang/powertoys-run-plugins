@@ -1,0 +1,14 @@
+{
+    "ID": "b99074a6701b4042baf808a974877295",
+    "Disabled": false,
+    "ActionKeyword": "rpget",
+    "IsGlobal": false,
+    "Name": "PowerToys Run PluginGet",
+    "Author": "poychang",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://aka.ms/powertoys",
+    "ExecuteFileName": "PowerToysRunPluginGet.dll",
+    "IcoPathDark": "Images\\icon.dark.png",
+    "IcoPathLight": "Images\\icon.light.png"
+}

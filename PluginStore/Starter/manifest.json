@@ -1,0 +1,31 @@
+{
+    "manifestVersion": "1.0",
+    "version": "1.0.0",
+    "id": "6f34e080c4664cbda43a3bd2f9572344",
+    "packageName": "Starter",
+    "repository": "https://github.com/xtermjs/xterm.js",
+    "developer": {
+        "name": "Poy Chang",
+        "websiteUrl": "https://blog.poychang.net/",
+        "privacyUrl": "https://blog.poychang.net/privacy",
+        "termsOfUseUrl": "https://blog.poychang.net/termofuse"
+    },
+    "name": {
+        "short": "Starter",
+        "full": "Starter"
+    },
+    "description": {
+        "short": "Starter Plugin for PowerToys Run",
+        "full": "Starter Plugin for PowerToys Run"
+    },
+    "architecture": {
+        "arm": {
+            "filename": "Starter-2024-02-19-ARM64.zip",
+            "filetype": "zip"
+        },
+        "x64": {
+            "filename": "Starter-2024-02-19-x64.zip",
+            "filetype": "zip"
+        }
+    }
+}
