@@ -30,6 +30,10 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\PowerToysRunPluginGet.Manager\PowerToysRunPluginGet.Manager.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
         <None Update="Images\icon.dark.png">
             <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
         </None>

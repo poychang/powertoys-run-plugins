@@ -67,14 +67,14 @@ namespace PowerToysRunPluginGet
 
         public IEnumerable<PluginAdditionalOption> AdditionalOptions => new List<PluginAdditionalOption>
         {
-            new() {
-                Key ="PluginSource",
-                DisplayLabel = "Plugin Source",
-                DisplayDescription = "A Url for PluginGet to search plugin",
-                PluginOptionType = PluginAdditionalOption.AdditionalOptionType.Textbox,
-                TextValue = "",
-                TextBoxMaxLength = 300,
-            },
+            //new() {
+            //    Key ="PluginSource",
+            //    DisplayLabel = "Plugin Source",
+            //    DisplayDescription = "A Url for PluginGet to search plugin",
+            //    PluginOptionType = PluginAdditionalOption.AdditionalOptionType.Textbox,
+            //    TextValue = "",
+            //    TextBoxMaxLength = 300,
+            //},
         };
 
         public Control CreateSettingPanel()
